@@ -1,4 +1,4 @@
-In order to run on OS X you must use brew to download SFML. (I know it's retarded)
+In order to run on OS X you must use brew to download SFML. 
 follow the snippet bellow and you’ll be fine
 
 If you don't have home-brew install it by using the following line.
